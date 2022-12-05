@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1670243408 source:c:\users\gonzalo\desktop\laboratorio 1\cossa.gonzalo.rspprogi.1a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
